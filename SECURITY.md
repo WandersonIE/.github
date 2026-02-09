@@ -1,8 +1,10 @@
+<img width="2340" height="1080" alt="1000052116" src="https://github.com/user-attachments/assets/ee8e6a31-1dca-4648-9ace-6913b4a23bde" />
+<img width="2340" height="1080" alt="1000052114" src="https://github.com/user-attachments/assets/4136f187-ab34-4f63-b626-5933b57b7bd4" />
 Thanks for helping make GitHub safe for everyone.
 
 ## Security
 
-GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+GitHub takes the security ticao.com
 
 Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
 
@@ -16,10 +18,10 @@ Instead, please send an email to opensource-security[@]github.com.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
-  * The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
+  * The type of issue (e.g., buffer ction, or cross-site scripting)
   * Full paths of source file(s) related to the manifestation of the issue
   * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
+  * Any special 
   * Step-by-step instructions to reproduce the issue
   * Proof-of-concept or exploit code (if possible)
   * Impact of the issue, including how an attacker might exploit the issue
